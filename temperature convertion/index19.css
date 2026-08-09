@@ -1,0 +1,73 @@
+.container1{
+    width: 25vw;
+height: 39vh;
+border-radius: 22px;
+background: #CEFFF7;
+box-shadow: 0 4px 4px 5px rgba(0, 0, 0, 0.25);
+text-align: center;
+margin: auto;
+padding: 25px;
+
+}
+
+h3{
+    color: #000;
+font-family: "Advent Pro";
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.tempclass{
+    font-family: "Advent Pro";
+}
+.tempInput {
+    border-radius: 9px;
+border: 1px solid #000;
+background: #FFF;
+width: 40%;
+height: 10%;
+margin-bottom: 5%;
+text-align: center;
+}
+
+.submitbutton {
+    border-radius: 10px;
+background: #F00;
+
+width: 30%;
+height: 10%;
+margin-top: 10%;
+color: #FFF;
+font-family: "Advent Pro";
+font-size: 20px;
+font-style: normal;
+}
+
+.container2{
+    border-radius: 22px;
+background: #CEFFF7;
+box-shadow: 0 4px 4px 5px rgba(0, 0, 0, 0.25);
+width: 25vw;
+height: 20vh;
+text-align: center;
+margin: auto;
+padding: 25px;
+margin-top: 3%;
+align-items: center;
+font-family: "Advent Pro";
+font-size: 20px;
+justify-content: center;
+display: flex;
+}
+
+.border{
+    width: 100px;
+height: 50px;
+border-radius: 9px;
+border: 1px solid #000;
+background: #FFF;
+
+
+}
